@@ -1,1 +1,1 @@
-var remote3
+var loca3 remote3
