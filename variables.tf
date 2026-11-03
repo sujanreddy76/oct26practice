@@ -1,1 +1,1 @@
-var remote2
+var local2 remote2
